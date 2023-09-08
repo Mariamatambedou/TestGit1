@@ -2,16 +2,7 @@ import java.util.*;
 public class Ex {
 
 	public static void main(String[] args) {
-	 LinkedList<String> list=new LinkedList<String>();
-	list.add("objet	1")	;
-	list.add("objet	2")	;
-	list.add("objet	3")	; 
-	ListIterator <String> iter = list.listIterator(	);
-	while(iter.hasNext(	))
-		{	String	o=	iter.next()	;
-		System.out.println("element"+o)	; 
-		}
-
-	}
+	
+		System.out.println("HELLO WORLD"); 
 
 }
