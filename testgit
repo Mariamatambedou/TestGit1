@@ -3,6 +3,6 @@ public class Ex {
 
 	public static void main(String[] args) {
 	
-		System.out.println("HELLO WORLD Mariama Tambedou"); 
+		System.out.println("HELLO WORLD Mariama"); 
 
 }
